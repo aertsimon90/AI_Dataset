@@ -6,7 +6,7 @@
 - [AI_Dataset.zip](https://s2.dosya.tc/server30/1gafls/AI_Dataset.zip.html)
 - [AI_Dataset.zip](https://mega.nz/file/qBUywJYD#PLS3iDvyRlCJQg0B2pCD5ZJpclGnv4ZDUoloSuh_XNU)
 
-This repository contains a comprehensive artificial intelligence training dataset curated by [Your Name/Your Organization]. The dataset is designed to facilitate AI model training across various domains. Below is an overview of the dataset structure and contents:
+This repository contains a comprehensive artificial intelligence training dataset curated by Simon Scap. The dataset is designed to facilitate AI model training across various domains. Below is an overview of the dataset structure and contents:
 
 ## Dataset Overview
 
